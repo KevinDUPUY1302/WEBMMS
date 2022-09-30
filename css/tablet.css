@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css?family=Ruslan+Display");
+*{
+    background-color: grey;
+    font-family: 'Ruslan Display';
+}
+caption{
+    background-color: yellow;
+}
+table , table *{
+    border: 2px solid black;
+}
+thead , td{
+    background-color: blue;
+    color: white;
+}
+#firstcolonne{
+    background-color: yellow;
+    text-align: center;
+}
+.Midi{
+    background-color: orange;
+}
+#Aveyron{
+    background-color: green;
+}
+.Languedoc{
+    background-color: lime;
+    display:none;
+}
+.Total{
+    font-weight: bold;
+}
+.Chiffre{
+    font-weight: bold;
+    text-align: right;
+}
+.general{
+    background-color: yellow; 
+}
+
+

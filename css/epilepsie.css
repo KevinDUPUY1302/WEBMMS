@@ -1,0 +1,23 @@
+p {
+    border: 10px black solid;
+    border-radius: 8px;
+    background-color: yellow;
+    color : red;
+}
+.pimg{
+    background: url("../img/logo.png") fixed repeat;
+}
+.parahover:hover{
+    background-color: red ;
+    color: yellow;
+}
+.parahover:active{
+    background-color: blue;
+}
+input:focus{
+    background-color: black;
+    color: white;
+}
+a:visited{
+    color: orange;
+}
